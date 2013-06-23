@@ -1,5 +1,5 @@
-# Modified from teh online problem 0 set to allow for reading tweets
-# from thh file captured for problem 1. This was necessary as Twitter
+# Modified from the online problem 0 set to allow for reading tweets
+# from the file captured for problem 1. This was necessary as Twitter
 # is no longer supporting the Ver 1.0 API that was referenced in the
 # Problem 0 description.
 
